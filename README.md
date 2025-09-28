@@ -24,4 +24,4 @@
   pip install numpy pandas matplotlib seaborn scikit-learn
   ```
 * 📊 [Kaggle Dataset](https://www.kaggle.com/datasets/camnugent/california-housing-prices)
-* 💻 [Example Notebook on GitHub](https://github.com/mokabadr-eng/California-Housing-Prices/blob/main/California_Housing_Prices.ipynb)
+* 💻 [Example Notebook on GitHub](https://github.com/Mithzzx/MLProjects/blob/0e06bc07c26f7f60e962661f2a7d035bae20f40d/California%20Housing%20Prices/.ipynb_checkpoints/UnTitled-checkpoint.ipynb)
